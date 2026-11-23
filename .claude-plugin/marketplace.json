@@ -137,6 +137,21 @@
         "./skills/muapi/muapi-chat-agents",
         "./skills/muapi/muapi-models"
       ]
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "description": "UI/UX design intelligence (styles, palettes, font pairings, charts, UX guidelines, stack guides) plus brand, design, design-system, banner, slides and ui-styling skills. From nextlevelbuilder/ui-ux-pro-max-skill (MIT).",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/ui-ux-pro-max",
+        "./skills/banner-design",
+        "./skills/brand",
+        "./skills/design",
+        "./skills/design-system",
+        "./skills/slides",
+        "./skills/ui-styling"
+      ]
     }
   ]
 }
